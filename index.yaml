@@ -8,5 +8,5 @@ entries:
     digest: 10538f7df1e6e9aa7b1081054aba9e84e94f2af842b4f0dc1c5eaeec608a9b61
     name: dapr
     urls:
-    - https://github.com/sjswi/helm-test/blob/main/dapr-1.11.2.tgz
+    - https://yuxb.xyz/dapr-1.11.2.tgz
     version: 1.11.2
